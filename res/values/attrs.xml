@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+    <declare-styleable name="ScroolPanelListView"> 
+        <attr name="indicator_layout" format="reference"/> 
+        <attr name="in_anim" format="reference"/> 
+        <attr name="out_anim" format="reference"/> 
+    </declare-styleable> 
+</resources>
